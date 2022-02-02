@@ -9,7 +9,7 @@
 - :dog: I have two dogs. __Spike__ and __Boneca__. 
 
 
-### :thumbsup: Social Link
+### :thumbsup: Social Links
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/beatrizmayorka)](https://github.com/beatrizmayorka)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/beatriz-mayorka-de-aguiar-a40951198)](https://br.linkedin.com/in/beatriz-mayorka-de-aguiar-a40951198)
