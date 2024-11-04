@@ -1,11 +1,13 @@
 ### Hi there 👋 Welcome to my GitHub, I'm Beatriz Mayorka but you can call me by my nickname => Bia :)
 
 - :house_with_garden: I’m from Brazil.
-- 🌱 I’m currently learning __PHP__.
+- 🌱 I’m currently learning __backend__ development with __Java__ through a specialization program in partnership with __Oracle__ and __Alura__.
 - 💬 Ask me about __Java__, __JavaScript__, __HTML__, __CSS__, __Python__.
+- 🗣 I have a C1 level in both English and French.
+- 🌍 I lived in the __United States__ for four months, enjoying a cultural and communication experience.
 - ⚡ Fun fact: I :hearts: traveling all over the world.
 - :doughnut: I'm in love with candys.
-- :dog: I have two dogs. __Spike__ and __Boneca__. 
+- :dog: I have four dogs. __Boneca__, __Spike__, __Jurema__ and __Bolinha__. 
 
 ### ⚙️  GitHub Analytics
   <div center>
